@@ -15,9 +15,10 @@ Jostens Inc; 4928 employees
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 *** 4825 Businesses
-* List of your company's primary activities divided into engineering activities and operations activities:
+* List of your company's primary activities divided into engineering activities and operations activities:Engineering activities: Design of pieces and straps, research and innovation and prototyping watches. Operations activities: setting up tools and machines, obtaining and handling inventory, carrying out
+production and assembly work, finishing and quality control
 ***  
-* List of your company's support activities:
+* List of your company's support activities: general management, human resource management, and finance
 ***
 
 ## Task 2
