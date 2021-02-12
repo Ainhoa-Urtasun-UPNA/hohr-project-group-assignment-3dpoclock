@@ -9,6 +9,9 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+Kingold Jewelry Inc; 630 
+Champ Acquisition Corporation; 4931
+Jostens Inc; 4928
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
