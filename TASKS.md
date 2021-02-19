@@ -27,12 +27,12 @@ production and assembly work, finishing and quality control.
 ### Managers
 * ONET-SOC code and title: 11-3121.00 - Human Resources Manager
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems
-* Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes.
-* Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
-* Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
-* Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
-* Represent organization at personnel-related hearings and investigations
+ Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems
+ Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes.
+ Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
+ Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
+ Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
+ Represent organization at personnel-related hearings and investigations
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
@@ -55,27 +55,26 @@ production and assembly work, finishing and quality control.
 * Manufacturing (11%)
 ### Engineers
 * ONET-SOC code and title: 17-2141.00 - Mechanical Engineers
-* 5 most important tasks they carry out (provide the importance score, in Details):Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. 
-Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements. 
-Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information. 
-Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs. 
-Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
-
-
+* 5 most important tasks they carry out (provide the importance score, in Details):
+ Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. 
+ Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements. 
+ Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information. 
+ Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs. 
+ Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
 * Is this job routine? Your judgment (0-10): 6
 * Is this job cognitive? Your judgment (0-10):9
-* 5 most important skills they require to possess (provide the importance score, in Details):Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. 
-Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. 
-Mathematics — Using mathematics to solve problems. 
-Reading Comprehension — Understanding written sentences and paragraphs in work related documents. 
-Science — Using scientific rules and methods to solve problems.
+* 5 most important skills they require to possess (provide the importance score, in Details):
+ Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. 
+ Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. 
+ Mathematics — Using mathematics to solve problems. 
+ Reading Comprehension — Understanding written sentences and paragraphs in work related documents. 
+ Science — Using scientific rules and methods to solve problems.
 * 5 technology skills 
-* Analytical or scientific software — MAYA Nastran; Minitab ; ReliaSoft BlockSim; The MathWorks MATLAB 
-Computer aided design CAD software — Autodesk Revit ; Bentley MicroStation ; Dassault Systemes CATIA; Mathsoft Mathcad 
-Development environment software — Microsoft Visual Basic ; National Instruments LabVIEW ; Rockwell Automation; Verilog 
-Graphics or photo imaging software — Adobe Systems Adobe Illustrator ; Microsoft Visio ; SmugMug Flickr ; Trimble SketchUp Pro 
-Object or component oriented development software —   ; G-code; Practical extraction and reporting language Perl; Python 
-
+Analytical or scientific software
+Computer aided design CAD software  
+Development environment software 
+Graphics or photo imaging software
+Object or component oriented development software
 * Education: Most of these occupations require a four-year bachelor's degree, but some do not.
 * Wages: $42.51 hourly, $88,430 annual
 * Top industry: Manufacturing
