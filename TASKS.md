@@ -26,22 +26,22 @@ production and assembly work, finishing and quality control.
 ***
 ### Managers
 * ONET-SOC code and title: 11-3121.00 - Human Resources Manager
-* 5 most important tasks they carry out (provide the importance score, in Details):
-- Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems
-- Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes.
-- Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
-- Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
-- Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
-- Represent organization at personnel-related hearings and investigations
+* 5 MOST IMPORTANT TASKS THEY CARRY OUT(provide the importance score, in details):
+* Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems
+* Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes.
+* Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
+* Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
+* Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
+* Represent organization at personnel-related hearings and investigations
 * Is this job routine? Your judgment (0-10): 4
 * Is this job cognitive? Your judgment (0-10): 8
-* 5 most important skills they require to possess (provide the importance score, in Details):
-- Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
-- Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
-- Speaking — Talking to others to convey information effectively.
-- Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
-- Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
-* 5 technology skills:
+* 5 MOST IMPORTANT SKILLS THEY REQUIRE TO POSSES (provide the importance score, in Details):
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
+* Speaking — Talking to others to convey information effectively.
+* Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+* Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+* 5 TECHNOLOGY SKILLS:
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
 * Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
 * Speaking — Talking to others to convey information effectively.
@@ -49,18 +49,18 @@ production and assembly work, finishing and quality control.
 * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
 * Education: 74% of respondents, has Bachelors Degree, 9% of respondents has Post-baccalaureate and 9% of respondents have a Master’s degree
 * Wages: $56.11 hourly, $116,720 annual
-* Top industry: 
+* TOP INDUSTRY: 
 * Management of Companies and Enterprises (14% employed in this sector)
 * Professional, Scientific, and Technical Services (14%)
 * Manufacturing (11%)
 ### Engineers
 * ONET-SOC code and title: 17-2141.00 - Mechanical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
- Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. 
- Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements. 
- Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information. 
- Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs. 
- Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
+* Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. 
+* Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements. 
+* Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information. 
+* Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs. 
+* Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
 * Is this job routine? Your judgment (0-10): 6
 * Is this job cognitive? Your judgment (0-10):9
 * 5 most important skills they require to possess (provide the importance score, in Details):
