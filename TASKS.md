@@ -27,16 +27,16 @@ production and assembly work, finishing and quality control.
 ### Managers
 * ONET-SOC CODE AND TITLE: 11-3121.00 - Human Resources Manager
 * 5 MOST IMPORTANT TASKS THEY CARRY OUT(provide the importance score, in details):
-* Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems. Importance:95
+* Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems. Importance: 95
 * Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes. Importance: 92
 * Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements. Importance: 90
-* Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures. Importance:86
+* Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures. Importance: 86
 * Represent organization at personnel-related hearings and investigations. Importance: 82
 * Is this job routine? Your judgment (0-10): 4
 * Is this job cognitive? Your judgment (0-10): 8
 * 5 MOST IMPORTANT SKILLS THEY REQUIRE TO POSSES (provide the importance score, in Details):
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Importance: 78
-* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job. Importance:78
+* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job. Importance: 78
 * Speaking — Talking to others to convey information effectively. Importance: 78
 * Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance: 75
 * Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Importance: 75
@@ -46,14 +46,14 @@ production and assembly work, finishing and quality control.
 * Speaking — Talking to others to convey information effectively.
 * Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
 * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
-* EDUCATION: 74% of respondents, has Bachelors Degree, 9% of respondents has Post-baccalaureate and 9% of respondents have a Master’s degree
+* EDUCATION: 74% of respondents has Bachelors Degree, 9% of respondents has Post-baccalaureate and 9% of respondents have a Master’s degree
 * WAGES: $56.11 hourly, $116,720 annual
 * TOP INDUSTRY: 
 * Management of Companies and Enterprises (14% employed in this sector)
 * Professional, Scientific, and Technical Services (14%)
 * Manufacturing (11%)
 ### Engineers
-* ONET-SOC code and title: 17-2141.00 - Mechanical Engineers
+* ONET-SOC CODE AND TITLE: 17-2141.00 - Mechanical Engineers
 * 5 MOST IMPORTANT TASKS THEY CARRY OUT(provide the importance score, in details):
 * Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. Importance: 87
 * Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements. Importance: 84
@@ -63,50 +63,47 @@ production and assembly work, finishing and quality control.
 * Is this job routine? Your judgment (0-10): 6
 * Is this job cognitive? Your judgment (0-10): 9
 * 5 MOST IMPORTANT SKILLS THEY REQUIRE TO POSSES (provide the importance score, in Details):
- Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Important: 72
- Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Important: 72
- Mathematics — Using mathematics to solve problems. Important: 72
- Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Important: 72
- Science — Using scientific rules and methods to solve problems. Important: 72
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Important: 72
+* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Important: 72
+* Mathematics — Using mathematics to solve problems. Important: 72
+* Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Important: 72
+* Science — Using scientific rules and methods to solve problems. Important: 72
 * 5 TECHNOLOGY SKILLS:
-Analytical or scientific software
-Computer aided design CAD software  
-Development environment software 
-Graphics or photo imaging software
-Object or component oriented development software
+* Analytical or scientific software
+* Computer aided design CAD software  
+* Development environment software 
+* Graphics or photo imaging software
+* Object or component oriented development software
 * EDUCATION: Most of these occupations require a four-year bachelor's degree, but some do not.
 * WAGES: $42.51 hourly, $88,430 annual
-* TOP INDUSTRY: Manufacturing
-Professional, Scientific, and Technical Services
-
+* TOP INDUSTRY: Manufacturing Professional, Scientific, and Technical Services
 ### Operators
-* ONET-SOC code and title: 49-9064.00 Watch and clock repairers
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):8
-* Is this job cognitive? Your judgment (0-10):6
-* 5 most important skills they require to possess (provide the importance score, in Details):Repairing — Repairing machines or systems using the needed tools.
-Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
- 
-Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.
- 
-Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
- 
-Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.
-* 5 technology skills:Accounting software — Intuit QuickBooks ; Sage Software Sage50
- 
-Electronic mail software — IBM Lotus Notes
- 
-Enterprise resource planning ERP software — SAP software
- 
-Project management software — GrenSoft WorkTracer; Upland Consulting Group Repair Traq
- 
-Spreadsheet software — Microsoft Excel 
-* Education:Post-secondary certificate
+* ONET-SOC CODE AND TITLE: 49-9064.00 Watch and clock repairers
+* 5 MOST IMPORTANT TASKS THEY CARRY OUT(provide the importance score, in details):
+* Clean, rinse, and dry timepiece parts, using solutions and ultrasonic or mechanical watch-cleaning machines. Important: 92
+* Adjust timing regulators, using truing calipers, watch-rate recorders, and tweezers. Important: 91
+* Reassemble timepieces, replacing glass faces and batteries, before returning them to customers. Important: 91 
+* Disassemble timepieces and inspect them for defective, worn, misaligned, or rusty parts, using loupes. Important: 90
+* Oil moving parts of timepieces. Important: 89
+* Is this job routine? Your judgment (0-10): 8
+* Is this job cognitive? Your judgment (0-10): 6
+* 5 MOST IMPORTANT SKILLS THEY REQUIRE TO POSSES (provide the importance score, in Details):
+* Repairing — Repairing machines or systems using the needed tools. Important: 72
+* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Important: 53
+* Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. Important: 53
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Important: 50
+* Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed. Important: 50
+* 5 TECHNOLOGY SKILLS:
+* Accounting software
+* Electronic mail software — IBM Lotus Notes
+* Enterprise resource planning ERP software — SAP software
+* Project management software — GrenSoft WorkTracer; Upland Consulting Group Repair Traq
+* Spreadsheet software — Microsoft Excel 
+* EDUCATION:Post-secondary certificate
 High school diploma or equivalent 
 Associate's degree
-
-* Wages:20.44 hourly and 42.520 annualy
-* Top industry: Retail Trade
+* WAGES:20.44 hourly and 42.520 annualy
+* TOP INDUSTRY: Retail Trade
 ***
 
 ## Task 3
