@@ -27,20 +27,20 @@ production and assembly work, finishing and quality control.
 ### Managers
 * ONET-SOC code and title: 11-3121.00 - Human Resources Manager
 * 5 most important tasks they carry out (provide the importance score, in Details):
- Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems
- Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes.
- Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
- Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
- Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
- Represent organization at personnel-related hearings and investigations
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+- Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems
+- Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes.
+- Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
+- Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
+- Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
+- Represent organization at personnel-related hearings and investigations
+* Is this job routine? Your judgment (0-10): 4
+* Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
-* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
-* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
-* Speaking — Talking to others to convey information effectively.
-* Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
-* Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+- Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+- Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
+- Speaking — Talking to others to convey information effectively.
+- Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+- Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
 * 5 technology skills:
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
 * Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
