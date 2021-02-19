@@ -54,25 +54,61 @@ production and assembly work, finishing and quality control.
 * Professional, Scientific, and Technical Services (14%)
 * Manufacturing (11%)
 ### Engineers
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills
-* Education:
-* Wages:
-* Top industry:
+* ONET-SOC code and title: 17-2141.00 - Mechanical Engineers
+* 5 most important tasks they carry out (provide the importance score, in Details):Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. 
+Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements. 
+Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information. 
+Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs. 
+Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
+
+
+* Is this job routine? Your judgment (0-10): 6
+* Is this job cognitive? Your judgment (0-10):9
+* 5 most important skills they require to possess (provide the importance score, in Details):Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. 
+Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. 
+Mathematics — Using mathematics to solve problems. 
+Reading Comprehension — Understanding written sentences and paragraphs in work related documents. 
+Science — Using scientific rules and methods to solve problems.
+* 5 technology skills 
+* Analytical or scientific software — MAYA Nastran; Minitab ; ReliaSoft BlockSim; The MathWorks MATLAB 
+Computer aided design CAD software — Autodesk Revit ; Bentley MicroStation ; Dassault Systemes CATIA; Mathsoft Mathcad 
+Development environment software — Microsoft Visual Basic ; National Instruments LabVIEW ; Rockwell Automation; Verilog 
+Graphics or photo imaging software — Adobe Systems Adobe Illustrator ; Microsoft Visio ; SmugMug Flickr ; Trimble SketchUp Pro 
+Object or component oriented development software —   ; G-code; Practical extraction and reporting language Perl; Python 
+
+* Education: Most of these occupations require a four-year bachelor's degree, but some do not.
+* Wages: $42.51 hourly, $88,430 annual
+* Top industry: Manufacturing
+Professional, Scientific, and Technical Services
+
 ### Operators
-* ONET-SOC code and title:
+* ONET-SOC code and title: 49-9064.00 Watch and clock repairers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+* Is this job routine? Your judgment (0-10):8
+* Is this job cognitive? Your judgment (0-10):6
+* 5 most important skills they require to possess (provide the importance score, in Details):Repairing — Repairing machines or systems using the needed tools.
+Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+ 
+Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.
+ 
+Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+ 
+Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.
+* 5 technology skills:Accounting software — Intuit QuickBooks ; Sage Software Sage50
+ 
+Electronic mail software — IBM Lotus Notes
+ 
+Enterprise resource planning ERP software — SAP software
+ 
+Project management software — GrenSoft WorkTracer; Upland Consulting Group Repair Traq
+ 
+Spreadsheet software — Microsoft Excel 
+* Education:Post-secondary certificate
+High school diploma or equivalent 
+Associate's degree
+
+* Wages:20.44 hourly and 42.520 annualy
+* Top industry: Retail Trade
 ***
 
 ## Task 3
