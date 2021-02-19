@@ -4,7 +4,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Objective: analyze your industry and decide your primary and support activities
 ***
 * Your company's name: 3DPOCLOCK
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 339910
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 339910- This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing, engraving, chasing, or etching jewelry; (2) manufacturing, engraving, chasing, or etching metal personal goods (i.e., small articles carried on or about the person, such as compacts or cigarette cases); (3) manufacturing, engraving, chasing, or etching precious metal solid, precious metal clad, or pewter flatware and other hollowware; (4) stamping coins; (5) manufacturing unassembled jewelry parts and stock shop products, such as sheet, wire, and tubing; (6) cutting, slabbing, tumbling, carving, engraving, polishing, or faceting precious or semiprecious stones and gems; (7) recutting, repolishing, and setting gem stones; and (8) drilling, sawing, and peeling cultured and costume pearls. This industry includes establishments primarily engaged in manufacturing precious solid, precious clad, and precious plated jewelry and personal goods.
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
@@ -16,7 +16,7 @@ Jostens Inc; 4928 employees
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 *** 4825 Businesses
 * List of your company's primary activities divided into engineering activities and operations activities: Engineering activities: Design of pieces and straps, research and innovation and prototyping watches. Operations activities: setting up tools and machines, obtaining and handling inventory, carrying out
-production and assembly work, finishing and quality control
+production and assembly work, finishing and quality control. 
 ***  
 * List of your company's support activities: general management, human resource management, and finance
 ***
