@@ -74,7 +74,7 @@ production and assembly work, finishing and quality control.
 * Development environment software 
 * Graphics or photo imaging software
 * Object or component oriented development software
-* EDUCATION: Most of these occupations require a four-year bachelor's degree, but some do not.
+* EDUCATION: 84% of the respondents has a Bachelor degree, 7% of the respondents has Associate's degree and 5% has some collegue, not degree.
 * WAGES: $42.51 hourly, $88,430 annual
 * TOP INDUSTRY: Manufacturing Professional, Scientific, and Technical Services
 ### Operators
