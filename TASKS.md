@@ -25,59 +25,58 @@ production and assembly work, finishing and quality control.
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title: 11-3121.00 - Human Resources Manager
+* ONET-SOC CODE AND TITLE: 11-3121.00 - Human Resources Manager
 * 5 MOST IMPORTANT TASKS THEY CARRY OUT(provide the importance score, in details):
-* Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems
-* Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes.
-* Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
-* Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements.
-* Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
-* Represent organization at personnel-related hearings and investigations
+* Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems. Importance:95
+* Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes. Importance: 92
+* Analyze and modify compensation and benefits policies to establish competitive programs and ensure compliance with legal requirements. Importance: 90
+* Perform difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures. Importance:86
+* Represent organization at personnel-related hearings and investigations. Importance: 82
 * Is this job routine? Your judgment (0-10): 4
 * Is this job cognitive? Your judgment (0-10): 8
 * 5 MOST IMPORTANT SKILLS THEY REQUIRE TO POSSES (provide the importance score, in Details):
-* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
-* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
-* Speaking — Talking to others to convey information effectively.
-* Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
-* Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Importance: 78
+* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job. Importance:78
+* Speaking — Talking to others to convey information effectively. Importance: 78
+* Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance: 75
+* Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Importance: 75
 * 5 TECHNOLOGY SKILLS:
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
 * Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
 * Speaking — Talking to others to convey information effectively.
 * Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
 * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
-* Education: 74% of respondents, has Bachelors Degree, 9% of respondents has Post-baccalaureate and 9% of respondents have a Master’s degree
-* Wages: $56.11 hourly, $116,720 annual
+* EDUCATION: 74% of respondents, has Bachelors Degree, 9% of respondents has Post-baccalaureate and 9% of respondents have a Master’s degree
+* WAGES: $56.11 hourly, $116,720 annual
 * TOP INDUSTRY: 
 * Management of Companies and Enterprises (14% employed in this sector)
 * Professional, Scientific, and Technical Services (14%)
 * Manufacturing (11%)
 ### Engineers
 * ONET-SOC code and title: 17-2141.00 - Mechanical Engineers
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. 
-* Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements. 
-* Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information. 
-* Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs. 
-* Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
+* 5 MOST IMPORTANT TASKS THEY CARRY OUT(provide the importance score, in details):
+* Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. Importance: 87
+* Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements. Importance: 84
+* Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information. Importance: 79
+* Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs. Importance: 75
+* Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions. Importance: 75
 * Is this job routine? Your judgment (0-10): 6
-* Is this job cognitive? Your judgment (0-10):9
-* 5 most important skills they require to possess (provide the importance score, in Details):
- Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. 
- Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. 
- Mathematics — Using mathematics to solve problems. 
- Reading Comprehension — Understanding written sentences and paragraphs in work related documents. 
- Science — Using scientific rules and methods to solve problems.
-* 5 technology skills 
+* Is this job cognitive? Your judgment (0-10): 9
+* 5 MOST IMPORTANT SKILLS THEY REQUIRE TO POSSES (provide the importance score, in Details):
+ Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Important: 72
+ Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Important: 72
+ Mathematics — Using mathematics to solve problems. Important: 72
+ Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Important: 72
+ Science — Using scientific rules and methods to solve problems. Important: 72
+* 5 TECHNOLOGY SKILLS:
 Analytical or scientific software
 Computer aided design CAD software  
 Development environment software 
 Graphics or photo imaging software
 Object or component oriented development software
-* Education: Most of these occupations require a four-year bachelor's degree, but some do not.
-* Wages: $42.51 hourly, $88,430 annual
-* Top industry: Manufacturing
+* EDUCATION: Most of these occupations require a four-year bachelor's degree, but some do not.
+* WAGES: $42.51 hourly, $88,430 annual
+* TOP INDUSTRY: Manufacturing
 Professional, Scientific, and Technical Services
 
 ### Operators
