@@ -109,7 +109,7 @@ production and assembly work, finishing and quality control.
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
-
+First, we have filled matrix M with the 5 managers that stayed as managers, the engineers that passed to managers and no operators passed to managers, in the second row no managers passed to enginneers, 10 stayed as engeneers and no operator passed to engineer, and in the third row, 5 managers passed to work as operators, 5 engineers passed to works as operators and 45 operators stayed as operators. The Matrix D we fill it with the workers htat stayed on the same occupations the last year. In matris b in our firm there are 2 managers, one engeneer and 1 operator. The result we obtained interpreted as intergers is 1 manager, 1 engineer and 2 operators.
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
 ***
