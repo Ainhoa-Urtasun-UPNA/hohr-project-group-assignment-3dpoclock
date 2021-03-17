@@ -117,6 +117,8 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
+First we have filled matrix X with the rates of unemployment in the first column, then each column as dummy variables with a 1 or 0, depending on the occupation. Then, we multiplied the X by its traspose, and then we've done the inverse. Finally we multiply the inverse of the product of X and X' by the X' and then by the matrix Y, that is formed by the needed workers of previous year. The result we obtained, we multiplied it by the expected matrix X, that is filled with the expected unemployment in the first column and then the following columns as dummy variables depending on the occupation. The result we finally obtained is a column matrix 4, 12, 7. This means we expect that we will need 4 managers, 12 enginees and 7 operators in a year form now.
+There will be a shortage of 3 managers, a shortage of 11 operators and a shortage of 5 operators.
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
