@@ -123,11 +123,33 @@ There will be a shortage of 3 managers, a shortage of 11 operators and a shortag
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
-### Job posting for Managers:
+### Job posting for Managers: 
+In this case the Job posting for managers will have 3 vacancies because we predicted a shortage of 3.
+Occupation: 11-3121.00 - Human Resources Manager
+Industry: 339910 - Jewelry and Silverware manufacturing
+Tasks to be carry out are serve as a link between management and employees, advise managers on organizational policymateters and analyzing and modifying compensation and benefits policies.
+Skills required are active listening, managemento fo personnel resources and talking to other to convey information effectively.
+The required credencials are Bachelors Degree in Business administration or human resources and 2 years of experience.
+The location is online
+Salary is 56.11 hourly
 ### Job posting for Engineers:
+In this case the Job posting for engineers will have 13 vacances. Although we predicted that there will we a shortage of 11 we want to hire two more because we want engineers to develop and implement improvements on our watches.
+Occupations: 17-2141.00 - Mechanical Engineers
+Industry: 339910 - Jewelry and Silverware manufacturing
+Tasks to be carry out are read and interpret technical drawings, schematics, or computer-generated reports and also  research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.
+Skills required are critical thinking by using logic and reasoning to identify and weaknesses of alternative solucitons and mathematics to solve problems.
+The required credencials grade on mechanical engineering and at least 1 year of experience on a firm of this sector
+The location is half of the employes online and half in Pamplona
+Salary is 42.51 hourly
 ### Job posting for Operators:
-***
-
+In this case job oposting for operators will have 3 vacances. Although we predicted a shortage of five, we have decided to post 3 vacances because the automotion risk is 98%
+Occupation: 49-9064.00 Watch and clock repairers
+Industry: 339910 - Jewelry and Silverware manufacturing
+Tasks to carry out are clean, rinse, and dry timepiece parts, adjust timing regulators and Reassemble timepieces.
+Skills required are repairing, operation monitoring and equipment maintainance.
+The required credencials are high shool degree and at least one year of experienced in firms with chain work.
+The location is in Pamplona
+Salary is 20,244 hourly
 ## Task 6
 * Objective: Create a website for your project
 ***
