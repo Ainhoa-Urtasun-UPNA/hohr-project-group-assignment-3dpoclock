@@ -125,7 +125,7 @@ There will be a shortage of 3 managers, a shortage of 11 operators and a shortag
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers: 
-In this case the Job posting for managers will have 3 vacancies because we predicted a shortage of 3.
+In this case the Job posting for managers will have 3 vacancies because we predicted a shortage of 3 and the automation risk is .
 Occupation: 11-3121.00 - Human Resources Manager
 Industry: 339910 - Jewelry and Silverware manufacturing
 Tasks to be carry out are serve as a link between management and employees, advise managers on organizational policymateters and analyzing and modifying compensation and benefits policies.
@@ -134,7 +134,7 @@ The required credencials are Bachelors Degree in Business administration or huma
 The location is online
 Salary is 56.11 hourly
 ### Job posting for Engineers:
-In this case the Job posting for engineers will have 13 vacances. Although we predicted that there will we a shortage of 11 we want to hire two more because we want engineers to develop and implement improvements on our watches.
+In this case the Job posting for engineers will have 13 vacances. Although we predicted that there will we a shortage of 11 we want to hire two more because we want engineers to develop and implement improvements on our watches and the automation risk is just .
 Occupations: 17-2141.00 - Mechanical Engineers
 Industry: 339910 - Jewelry and Silverware manufacturing
 Tasks to be carry out are read and interpret technical drawings, schematics, or computer-generated reports and also  research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.
