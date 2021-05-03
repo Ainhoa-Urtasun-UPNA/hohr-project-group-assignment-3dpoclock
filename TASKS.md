@@ -75,7 +75,7 @@ production and assembly work, finishing and quality control.
 * Development environment software 
 * Graphics or photo imaging software
 * Object or component oriented development software
-* EDUCATION: 84% of the respondents has a Bachelor degree, 7% of the respondents has Associate's degree and 5% has some collegue, not degree.
+* EDUCATION: 84% of the respondents has a Bachelor degree, 7% of the respondents has an Associate's degree and 5% has some colleague, not degree.
 * WAGES: $42.51 hourly, $88,430 annual
 * TOP INDUSTRY: Manufacturing Professional, Scientific, and Technical Services
 ### Operators
@@ -101,7 +101,7 @@ production and assembly work, finishing and quality control.
 * Project management software — GrenSoft WorkTracer; Upland Consulting Group Repair Traq
 * Spreadsheet software — Microsoft Excel 
 * EDUCATION: The respondents have Post-secondary certificate, High school diploma or equivalent and Associate's degree
-* WAGES:20.44 hourly and 42.520 annualy
+* WAGES:20.44 hourly and 42.520 annually
 * TOP INDUSTRY: Retail Trade
 ***
 
@@ -110,7 +110,7 @@ production and assembly work, finishing and quality control.
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
-First, we have filled matrix M with the 5 managers that stayed as managers, the engineers that passed to managers and no operators passed to managers, in the second row no managers passed to enginneers, 10 stayed as engeneers and no operator passed to engineer, and in the third row, 5 managers passed to work as operators, 5 engineers passed to works as operators and 45 operators stayed as operators. The Matrix D we fill it with the workers htat stayed on the same occupations the last year. In matris b in our firm there are 2 managers, one engeneer and 1 operator. The result we obtained interpreted as intergers is 1 manager, 1 engineer and 2 operators.
+First, we have filled matrix M with the 5 managers that stayed as managers, the engineers that passed to managers and no operators passed to managers, in the second row no managers passed to enginneers, 10 stayed as engineers and no operator passed to engineer, and in the third row, 5 managers passed to work as operators, 5 engineers passed to works as operators and 45 operators stayed as operators. The Matrix D we fill it with the workers that stayed on the same occupations the last year. In matris b in our firm there are 2 managers, one engineers and 1 operator. The result we obtained interpreted as intergers is 1 manager, 1 engineer and 2 operators.
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
 ***
@@ -118,7 +118,7 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
-First we have filled matrix X with the rates of unemployment in the first column, then each column as dummy variables with a 1 or 0, depending on the occupation. Then, we multiplied the X by its traspose, and then we've done the inverse. Finally we multiply the inverse of the product of X and X' by the X' and then by the matrix Y, that is formed by the needed workers of previous year. The result we obtained, we multiplied it by the expected matrix X, that is filled with the expected unemployment in the first column and then the following columns as dummy variables depending on the occupation. The result we finally obtained is a column matrix 4, 12, 7. This means we expect that we will need 4 managers, 12 enginees and 7 operators in a year form now.
+First we have filled matrix X with the rates of unemployment in the first column, then each column as dummy variables with a 1 or 0, depending on the occupation. Then, we multiplied the X by its transpose, and then we've done the inverse. Finally we multiply the inverse of the product of X and X' by the X' and then by the matrix Y, that is formed by the needed workers of the previous year. The result we obtained, we multiplied it by the expected matrix X, that is filled with the expected unemployment in the first column and then the following columns as dummy variables depending on the occupation. The result we finally obtained is a column matrix 4, 12, 7. This means we expect that we will need 4 managers, 12 engineers and 7 operators in a year from now.
 There will be a shortage of 3 managers, a shortage of 11 operators and a shortage of 5 operators.
 
 ## Task 5
@@ -128,27 +128,27 @@ There will be a shortage of 3 managers, a shortage of 11 operators and a shortag
 In this case the Job posting for managers will have 3 vacancies because we predicted a shortage of 3 and the automation risk is 1%.
 Occupation: 11-3121.00 - Human Resources Manager
 Industry: 339910 - Jewelry and Silverware manufacturing
-Tasks to be carry out are serve as a link between management and employees, advise managers on organizational policymateters and analyzing and modifying compensation and benefits policies.
-Skills required are active listening, managemento fo personnel resources and talking to other to convey information effectively.
-The required credencials are Bachelors Degree in Business administration or human resources and 2 years of experience.
+Tasks to be carry out are to serve as a link between management and employees, advise managers on organizational policymatters and analyzing and modifying compensation and benefits policies.
+Skills required are active listening, management of personnel resources and talking to other to convey information effectively.
+The required credentials are a Bachelors Degree in Business administration or human resources and 2 years of experience.
 The location is online
 Salary is 56.11 hourly
 ### Job posting for Engineers:
-In this case the Job posting for engineers will have 13 vacances. Although we predicted that there will we a shortage of 11 we want to hire two more because we want engineers to develop and implement improvements on our watches and the automation risk is just 1%.
+In this case the Job posting for engineers will have 13 vacances. Although we predicted that there will be a shortage of 11 but we want to hire two more because we want engineers to develop and implement improvements on our watches and the automation risk is just 1%.
 Occupations: 17-2141.00 - Mechanical Engineers
 Industry: 339910 - Jewelry and Silverware manufacturing
 Tasks to be carry out are read and interpret technical drawings, schematics, or computer-generated reports and also  research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.
-Skills required are critical thinking by using logic and reasoning to identify and weaknesses of alternative solucitons and mathematics to solve problems.
-The required credencials grade on mechanical engineering and at least 1 year of experience on a firm of this sector
+Skills required are critical thinking by using logic and reasoning to identify and weaknesses of alternative solutions and mathematics to solve problems.
+The required credetials are a grade on mechanical engineering and at least 1 year of experience on a firm of this sector
 The location is half of the employes online and half in Pamplona
 Salary is 42.51 hourly
 ### Job posting for Operators:
-In this case job oposting for operators will have 3 vacances. Although we predicted a shortage of 5, we have decided to post 3 vacances because the automotion risk is 98%
+In this case job posting for operators will have 3 vacances. Although we predicted a shortage of 5, we have decided to post 3 vacances because the automotion risk is 98%
 Occupation: 49-9064.00 Watch and clock repairers
 Industry: 339910 - Jewelry and Silverware manufacturing
 Tasks to carry out are clean, rinse, and dry timepiece parts, adjust timing regulators and Reassemble timepieces.
 Skills required are repairing, operation monitoring and equipment maintainance.
-The required credencials are high shool degree and at least one year of experienced in firms with chain work.
+The required credentials are a high shool degree and at least one year of experience in firms with chain work.
 The location is in Pamplona
 Salary is 20,244 hourly
 ## Task 6
