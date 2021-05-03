@@ -7,6 +7,5 @@
 ![Dibujo sin título (2)](https://user-images.githubusercontent.com/78743005/116823051-79a6ba00-ab82-11eb-95c5-131c360a59e2.jpg)
 ## JOB POSTINGS
 ![JOB POSTING MANAGERS (3) (1)](https://user-images.githubusercontent.com/78743005/116869744-90e0b880-ac11-11eb-951b-f0c743a83888.jpg)
-![JOB POSTING ENGINEERS (2)](https://user-images.githubusercontent.com/78743005/116858538-d1830680-abfe-11eb-95a2-92192f3f49df.jpg)
+![JOB POSTING ENGINEERS (3)](https://user-images.githubusercontent.com/78743005/116870672-35172f00-ac13-11eb-985c-15ddb698e088.jpg)
 ![JOB POSTING OPERATOR (1)](https://user-images.githubusercontent.com/78743005/116869175-870a8580-ac10-11eb-9279-347302ee41f5.jpg)
-
