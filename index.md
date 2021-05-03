@@ -7,4 +7,4 @@
 ## JOB POSTINGS
 ![JOB POSTING MANAGERS (2) (1)](https://user-images.githubusercontent.com/78743005/116856115-d9d94280-abfa-11eb-897a-169eaffadd50.jpg)
 ![JOB POSTING ENGINEERS (2)](https://user-images.githubusercontent.com/78743005/116858538-d1830680-abfe-11eb-95a2-92192f3f49df.jpg)
-![JOB POSTING OPERATOR](https://user-images.githubusercontent.com/78743005/116859470-54f12780-ac00-11eb-8195-ebb4c158d9b5.jpg)
+![JOB POSTING OPERATOR (1)](https://user-images.githubusercontent.com/78743005/116869074-4f9bd900-ac10-11eb-9414-ddb972cc3fe6.jpg)
