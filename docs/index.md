@@ -2,6 +2,7 @@
 ![INTRODUCTION (1)](https://user-images.githubusercontent.com/78743005/116821988-b8d20c80-ab7c-11eb-9c28-ed44b0a69944.jpg)
 ## PRODUCTION PROCESS
 ![PRODUCTION PROCESS (1)](https://user-images.githubusercontent.com/78743005/116823163-3d278e00-ab83-11eb-8228-30a3c80a25f0.jpg)
+![extra](https://user-images.githubusercontent.com/78743005/116870047-13697800-ac12-11eb-8007-987f7e1c1de0.jpg)
 ## OUR PRESENT AND FUTURE WORKERS
 ![Dibujo sin título (2)](https://user-images.githubusercontent.com/78743005/116823025-5419b080-ab82-11eb-8a3f-ca4221b691a9.jpg)
 ## JOB POSTINGS
