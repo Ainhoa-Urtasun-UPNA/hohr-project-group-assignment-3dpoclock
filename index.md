@@ -5,7 +5,7 @@
 ## OUR PRESENT AND FUTURE WORKERS
 ![Dibujo sin título (2)](https://user-images.githubusercontent.com/78743005/116823051-79a6ba00-ab82-11eb-95c5-131c360a59e2.jpg)
 ## JOB POSTINGS
-![JOB POSTING MANAGERS (2) (1)](https://user-images.githubusercontent.com/78743005/116856115-d9d94280-abfa-11eb-897a-169eaffadd50.jpg)
+![JOB POSTING MANAGERS (3)](https://user-images.githubusercontent.com/78743005/116869577-46f7d280-ac11-11eb-98ef-8ef9e45ec82a.jpg)
 ![JOB POSTING ENGINEERS (2)](https://user-images.githubusercontent.com/78743005/116858538-d1830680-abfe-11eb-95a2-92192f3f49df.jpg)
 ![JOB POSTING OPERATOR (1)](https://user-images.githubusercontent.com/78743005/116869175-870a8580-ac10-11eb-9279-347302ee41f5.jpg)
 
