@@ -8,5 +8,6 @@
 ## JOB POSTINGS
 ![JOB POSTING MANAGERS (1)](https://user-images.githubusercontent.com/78743005/116823976-e4a6bf80-ab87-11eb-9902-a4ea17c0d6ff.jpg)
 ![JOB POSTING ENGINEERS (2)](https://user-images.githubusercontent.com/78743005/116858572-df388c00-abfe-11eb-9468-a404ca9f05f4.jpg)
+![JOB POSTING OPERATOR (2)](https://user-images.githubusercontent.com/78743005/117318966-2cc92900-ae8b-11eb-9aa0-3b6b3d5bfe0f.jpg)
 
 
