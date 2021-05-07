@@ -4,7 +4,7 @@
 ![PRODUCTION PROCESS (1)](https://user-images.githubusercontent.com/78743005/116823146-2da84500-ab83-11eb-94be-a3c5618b623c.jpg)
 ![extra](https://user-images.githubusercontent.com/78743005/116869981-fdf44e00-ac11-11eb-8866-47c3d2ffc1ef.jpg)
 ## OUR PRESENT AND FUTURE WORKERS
-![Dibujo sin título (2)](https://user-images.githubusercontent.com/78743005/116823051-79a6ba00-ab82-11eb-95c5-131c360a59e2.jpg)
+![Dibujo sin título (4)](https://user-images.githubusercontent.com/78743005/117411184-9ee55080-af13-11eb-90fe-9f3e87214ad1.jpg)
 ## JOB POSTINGS
 ![JOB POSTING MANAGERS (3) (1)](https://user-images.githubusercontent.com/78743005/116869744-90e0b880-ac11-11eb-951b-f0c743a83888.jpg)
 ![JOB POSTING ENGINEERS (3)](https://user-images.githubusercontent.com/78743005/116870672-35172f00-ac13-11eb-985c-15ddb698e088.jpg)
